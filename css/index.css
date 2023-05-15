@@ -684,9 +684,9 @@ margin-right: 10px;
   width: 98%;
 }
 .uls{
-  padding: 2em 2em 2em;
+  padding: 1.5em 1.5em 1.5em;
   border-radius: 2em;
-  text-align: center;
+  text-align: left;
   box-shadow: 0 5px 10px rgba(0,0,0,.2);
   max-width: 90%;
   font-size: 30px;
