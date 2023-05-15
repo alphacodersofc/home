@@ -36,6 +36,7 @@ console.log(email+name+comment+dateTime)
       database.ref('comments/'+newMessageKey+'/name').set(name);
       database.ref('comments/'+newMessageKey+'/comment').set(comment);
       database.ref('comments/'+newMessageKey+'/date').set(dateTime);
+    location.reload()
   }
 
 // Listen for form submit
