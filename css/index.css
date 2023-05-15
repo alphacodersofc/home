@@ -684,9 +684,10 @@ margin-right: 10px;
   width: 98%;
 }
 .uls{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
+  padding: 1.5em .5em .5em;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
     }
 .commentmain .boxcom{
   background-color: #012970;
