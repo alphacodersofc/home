@@ -253,7 +253,7 @@ nav .logo {
     padding-bottom: 20px;
   }
    .uls{
-       font-size: 10px;
+       font-size: 20px;
        }
   }
 
@@ -280,7 +280,7 @@ nav .logo {
     font-size: 40px;
 }
     .uls{
-        font-size: 20px;
+        font-size: 25px;
             }
 }
 
@@ -695,7 +695,6 @@ margin-right: 10px;
   border-radius: 2em;
   box-shadow: 0 5px 10px rgba(0,0,0,.2);
   max-width: 90%;
-  font-size: 7px;
     }
 .commentmain .boxcom{
   background-color: #012970;
